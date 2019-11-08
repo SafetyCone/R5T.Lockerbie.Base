@@ -1,4 +1,6 @@
 R5T.Lockerbie.Base - An ILocalFileInfoRepository base service definition library for the Lockerbie project.
 
+Based on the work in https://github.com/MinexAutomation/R5T.Dingwall.Base.Private.
+
 Goals
 
