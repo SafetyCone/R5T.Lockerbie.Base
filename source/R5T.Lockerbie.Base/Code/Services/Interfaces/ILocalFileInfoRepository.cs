@@ -17,6 +17,7 @@ namespace R5T.Lockerbie
         // Create.
         FileIdentity Add(FilePath filePath, FileFormat fileFormat);
         //FileIdentity Add(FilePath filePath); // Might not be in core functionality since will need to determine file format from file extension of file path.
+        void Add(FileInfo fileInfo);
 
         // Read.
         bool Exists(FileIdentity fileIdentity);
