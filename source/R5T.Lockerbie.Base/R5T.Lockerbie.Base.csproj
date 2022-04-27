@@ -8,5 +8,6 @@
     <ProjectReference Include="..\..\..\R5T.Guide\source\R5T.Guide\R5T.Guide.csproj" />
     <ProjectReference Include="..\..\..\R5T.Philippi\source\R5T.Philippi\R5T.Philippi.csproj" />
     <ProjectReference Include="..\..\..\R5T.Sparta.Types\source\R5T.Sparta.Types\R5T.Sparta.Types.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj" />
   </ItemGroup>
 </Project>
